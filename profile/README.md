@@ -8,19 +8,4 @@
 
 # Welcome to the Sight &amp; Sound Theatres GitHub!
 
-**If you're just stopping by:** Nice to meet you! If you're not familiar with Sight &amp; Sound and our mission, check us out at [sight-sound.com](https://sight-sound.com). Here on GitHub, you'll find the home of the Sight &amp; Sound Development Team. We develop the core ticketing systems (and various other custom systems) here at Sight &amp; Sound Theatres. Take a look at the projects we have developed and released open source, and some awesome open source projects that we contribute to!
-
-**If you're a business partner:** Welcome! This is your hub for all things related to the Sight &amp; Sound APIs. Here are some links to all of the information you'll need to get started with our API.
-
-- For information about our APIs, head to [developer.sight-sound.com](https://developer.sight-sound.com) for our Postman collection. There you'll find documentation, examples, and you can even open it in your own Postman account by clicking "Run in Postman".
-- We also provide SDKs for you to use, which are available right here on our GitHub! The SDKs will simplify things so much for you, so we highly recommend you use them! They are available in the language's preferred package manager. Please refer to the readme of each repository for more information. Here are the available ticketing SDKs:
-  - [Java](https://github.com/sightsoundtheatres/ticketing-sdk-java)
-  - [.NET](https://github.com/sightsoundtheatres/ticketing-sdk-dotnet)
-  
-### How to Contact Us
-
-**If you require an urgent response:** Please reach out to your PSM directly. We cannot provide a guaranteed response time via GitHub.
-
-**If you have a feature request:** Please reach out to your PSM directly. They will take the request and, if needed, relay it to us to put in our backlog. We cannot accept feature requests via GitHub at this time.
-
-**If you encounter a bug with our APIs or SDKs, or need us to provide more documentation:** Please open a GitHub issue in your SDK's repository so we can help you directly! GitHub is the preferred platform for direct communication between our developers and yours. However, we can't provide programming help or tech support on GitHub.
+Nice to meet you! If you're not familiar with Sight &amp; Sound and our mission, check us out at [sight-sound.com](https://sight-sound.com). Here on GitHub, you'll find the home of the Sight &amp; Sound Development Team. We develop the core ticketing systems (and various other custom systems) here at Sight &amp; Sound Theatres. Take a look at the projects we have developed and released open source, and some awesome open source projects that we contribute to!
